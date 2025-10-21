@@ -69,7 +69,7 @@ A modern, mobile-first Progressive Web App for health-conscious food ordering wi
    - Select source: Deploy from a branch
    - Choose branch: main
    - Folder: /web
-3. **Access your app** at: `https://your-username.github.io/nutriorder-webapp`
+#3. **Access your app** at: `https://your-username.github.io/nutriorder-webapp`
 
 ### Method 2: Local Development
 
@@ -243,3 +243,4 @@ If you encounter any issues or have questions:
 
 [![GitHub stars](https://img.shields.io/github/stars/your-username/nutriorder-webapp?style=social)](https://github.com/your-username/nutriorder-webapp/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/your-username/nutriorder-webapp?style=social)](https://github.com/your-username/nutriorder-webapp/network/members)
+
